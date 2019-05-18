@@ -1,0 +1,14 @@
+{
+    "_template": "gh:hackoregon/2019-backend-cookiecutter-django", 
+    "email": "you@example.com", 
+    "full_name": "Brian Grant", 
+    "gis_project": "True", 
+    "github_repo": "2021-transportation-systems-backend", 
+    "github_username": "yourname", 
+    "hack_oregon_team": "Transportation Systems", 
+    "project_short_description": "Your project description goes in here", 
+    "python_package_namespace": "hackoregon_transportation_systems", 
+    "python_subpackage": "passenger_census", 
+    "version": "0.1.0", 
+    "year": "2021"
+}
